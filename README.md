@@ -1,4 +1,4 @@
 # Developer Profile
-- **Name:** Alex Boysan
+- **Name:** (@aboysan1)
 - **Hobby:** Games
 - **Preferred Development Tool:** VS Code
